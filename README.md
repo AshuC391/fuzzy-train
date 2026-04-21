@@ -130,7 +130,7 @@ For real-world deployment, this system would require IRB approval, clinical vali
 - Implement federated learning so patient data never leaves the device
 
 ---
-
+```
 ## Author
 
 **Gourang Chandrakar**  
@@ -138,5 +138,5 @@ B.Tech Biomedical Engineering, Manipal Institute of Technology
 gourang.mitmpl2023@learner.manipal.edu · linkedin.com/in/gourang-chandrakar · github.com/AshuC391
 
 ---
-
+```
 *Built as part of a series of clinical AI projects at the intersection of wearable sensing and neurological disease monitoring.*
