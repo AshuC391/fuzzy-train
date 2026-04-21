@@ -40,22 +40,9 @@ This project asks: *what if a patient's phone could continuously track the same 
 
 ## Dashboard preview
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  NeuroSignal · PD Monitor                                   │
-│                                                             │
-│  Overall Risk   Voice Risk   Gait Risk   Tapping Risk       │
-│  ████ 68        ████ 71      ███ 64       ███ 58            │
-│                                                             │
-│  12-month trajectory ─────────────────────────────────────  │
-│  [risk score over time with per-modality breakdown lines]   │
-│                                                             │
-│  ROC Curve    Top 10 Features    Jitter Distribution        │
-│  AUC 0.967    [bar chart]        [histogram w/ patient]     │
-│                                                             │
-│  Model performance table    Patient cohort (P-042 etc.)     │
-└─────────────────────────────────────────────────────────────┘
-```
+![Dashboard](dashboard-2.png)
+![Dashboard](dashboard.png)
+
 
 ---
 
@@ -146,9 +133,9 @@ For real-world deployment, this system would require IRB approval, clinical vali
 
 ## Author
 
-**[Your Name]**  
+**Gourang Chandrakar**  
 B.Tech Biomedical Engineering, Manipal Institute of Technology  
-[your.email@manipal.edu] · [linkedin.com/in/yourprofile] · [github.com/yourusername]
+gourang.mitmpl2023@learner.manipal.edu · linkedin.com/in/gourang-chandrakar · github.com/AshuC391
 
 ---
 
